@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "ngx-perfect-scrollbar": "10.0.1",
     "@angular/animations": "~10.0.14",
     "@angular/common": "~10.0.14",
     "@angular/compiler": "~10.0.14",

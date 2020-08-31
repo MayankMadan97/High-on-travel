@@ -1,0 +1,15 @@
+
+$grey : #898989;
+
+.landing-page-container{
+    .Introduction-container{
+        height: 100vh;
+        background-image: url('../../../assets/introduction-cotainer-bg.jpeg');
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .gallery-container{
+        height: 100vh;
+        background-color: $grey;    
+    }
+}
